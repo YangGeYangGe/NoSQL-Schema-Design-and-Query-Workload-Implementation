@@ -1,0 +1,288 @@
+Id	TagName	Count	ExcerptPostId	WikiPostId
+1	deep-network	66	1797	1796
+2	generalization	2		
+4	neurons	12	6022	6021
+6	mindstorms	1	30	29
+8	intelligent-agent	31	1765	1764
+9	philosophy	73	2551	2550
+12	fuzzy-logic	10	252	251
+13	neural-networks	559	1555	1554
+14	image-recognition	114	1557	1556
+15	turing-test	18	1282	1281
+16	strong-ai	46	4019	4018
+17	weak-ai	4	7312	7311
+18	definitions	33	1637	1636
+19	singularity	15	6064	6063
+22	overfitting	6	5691	5690
+23	optimization	31	5675	5674
+25	emotional-intelligence	20	1802	1801
+26	genetic-algorithms	62	1661	1660
+27	machine-learning	480	1344	1343
+32	terminology	42	5140	5139
+34	markov-chain	10	6133	6132
+35	probabilistic	14	6015	6014
+36	performance	8	5996	5995
+37	hidden-layers	14	5664	5663
+39	history	26	1566	1565
+44	models	31	4638	4637
+46	legal	11	6078	6077
+47	programming-languages	20	1278	1277
+48	lisp	4	1721	1720
+50	statistical-ai	14	6013	6012
+53	heuristics	19	2686	2685
+54	search	26	2608	2607
+55	chess	13	1669	1668
+56	comparison	16	1693	1692
+58	unsupervised-learning	34	1652	1651
+63	classical-ai	2	5151	5150
+65	agi	33	1331	1330
+66	declarative-programming	3	260	259
+67	gofai	7	5313	5312
+69	symbolic-computing	5	6513	6512
+70	algorithm	110	1276	1275
+72	self-driving	27	1559	1558
+73	decision-theory	17	5923	5922
+74	incompleteness-theorems	2	257	256
+77	boltzmann-machine	7		
+81	efficiency	5	6494	6493
+82	ultraintelligent-machine	12	4015	4014
+83	hypercomputation	2		
+84	recurrent-neural-networks	54	5142	5141
+86	halting-problem	2		
+87	training	83	1647	1646
+88	deep-learning	308	2533	2532
+89	convolutional-neural-networks	181	1793	1792
+90	deepdream	2	1675	1674
+92	neural-doodle	2		
+94	math	25	5611	5610
+95	pattern-recognition	20	5662	5661
+96	natural-language	51	1347	1346
+99	computer-vision	68	5877	5876
+102	quantum-computing	4	1804	1803
+103	handwritten-characters	2	195	194
+107	new-ai	4		
+109	natural-language-processing	80	1680	1679
+110	wordvector	10		
+112	classification	97	1767	1766
+113	knowledge-representation	19	5921	5920
+114	time	3	5701	5700
+115	embodied-cognition	3		
+119	intelligence-testing	19	1800	1799
+120	ethics	27	5144	5143
+121	research	71	1634	1633
+122	chat-bots	28	2465	2464
+123	human-inspired	6	6484	6483
+124	text-summarization	9		
+126	watson	9	1586	1585
+127	storage	3	6337	6336
+128	lexical-recognition	4	1284	1283
+130	ai-community	23	5693	5692
+131	cyborg	2	6062	6061
+133	mlp	10	2893	2892
+135	hardware	12	5732	5731
+136	problem-solving	14	263	262
+137	world-knowledge	7	255	254
+138	backpropagation	52	4662	4661
+139	learning-theory	4		
+140	artificial-neuron	28	5609	5608
+141	signal-processing	5	5635	5634
+146	implementation	13	5734	5733
+150	applications	15	5882	5881
+155	ai-design	144	5533	5532
+166	ocr	5	5948	5947
+172	gradient-descent	28	2017	2016
+177	robots	13	1474	1473
+180	architecture	11	5366	5365
+181	prediction	33	5631	5630
+186	neuromorphic-computing	8	4926	4925
+187	friendly-ai	3		
+188	death	4	1817	1816
+189	reinforcement-learning	180	3869	3868
+194	healthcare	4	5809	5808
+197	biology	10	3611	3610
+198	deep-blue	2		
+199	social	11	4904	4903
+200	reasoning	12		
+201	multi-agent-systems	19		
+202	minimax	13	4546	4545
+203	game-theory	23	1550	1549
+206	datasets	44	5480	5479
+208	real-time	9		
+210	linear-regression	22	5633	5632
+214	action-recognition	6	5999	5998
+216	lstm	34	2720	2719
+219	cars	11	1583	1582
+220	gaming	30	1543	1542
+221	branching-factors	4		
+222	deepmind	8		
+226	language-processing	24	6295	6294
+228	genetic-programming	8	1511	1510
+229	cyberterrorism	2	6060	6059
+230	security	8	5946	5945
+231	challenges	5		
+232	control-problem	17	5146	5145
+234	prolog	4	5640	5639
+236	evolutionary-algorithms	34	2652	2651
+239	computer-programming	6	1564	1563
+240	object-recognition	31	5677	5676
+242	keras	35	1573	1572
+249	learning-algorithms	35	5556	5555
+251	path-planning	12		
+252	robotics	9	6058	6057
+265	detecting-patterns	14		
+266	asimovs-laws	2	1673	1672
+270	nasa	3	5687	5686
+272	deepdreaming	3	1677	1676
+273	computational-linguistics	7	1682	1681
+274	structured-data	8	1684	1683
+276	voice-recognition	15	5935	5934
+282	reference-request	24	5545	5544
+283	logic	22	5679	5678
+284	thought-vectors	2		
+285	ai-box	3		
+287	human-like	27	5660	5659
+288	cognitive-science	12	6201	6200
+292	tensorflow	69	4501	4500
+295	expert-system	5		
+299	untagged	4	4447	4446
+301	swarm-intelligence	3	5311	5310
+302	software-architecture	3	5368	5367
+303	game-ai	72	4503	4502
+304	hci	1	3129	3128
+306	google	5	3609	3608
+315	linear-algebra	4	5913	5912
+317	combinatorics	6	6024	6023
+318	dropout	5		
+319	ai-safety	7	5911	5910
+320	value-alignment	3		
+322	go	4	4505	4504
+326	intelligence-augmentation	2		
+330	neo-luddism	4	4811	4810
+332	superintelligence	10	4017	4016
+333	htm	2	4057	4056
+334	combinatorial-games	13	4105	4104
+335	imperfect-information	4	4107	4106
+336	incomplete-information	4	4109	4108
+337	cfg	1	4189	4188
+338	poker	2	4206	4205
+339	deepstack	1	4204	4203
+342	perceptron	4	5644	5643
+343	russell-norvig	3	4404	4403
+344	knapsack-problem	1	4406	4405
+346	negamax	1	4544	4543
+347	artificial-consciousness	11	4540	4539
+348	sentience	3	4542	4541
+349	scene-classification	1	4689	4688
+350	rul	1	4691	4690
+351	facial-recognition	10	4702	4701
+352	getting-started	50	4800	4799
+353	python	58	4802	4801
+354	ai-basics	69	4804	4803
+355	automation	10	4809	4808
+356	ai-takeover	2	4807	4806
+357	fitness-functions	2	4813	4812
+358	q-learning	31	4815	4814
+362	praxis	1	4967	4966
+363	graphs	3	5391	5390
+364	software-evaluation	18	4981	4980
+366	pathfinding	4	5032	5031
+367	theorics	24	5034	5033
+368	hardware-evaluation	6	5128	5127
+369	matlab	15	5184	5183
+370	data-science	12	5182	5181
+372	alphago	5	6843	6842
+373	self-replication	1	5219	5218
+374	universal-constructor	1	5216	5215
+375	alphazero	4	6036	6035
+377	brain	10	5642	5641
+378	super-organism	1	5754	5753
+379	r	2	5305	5304
+380	node-js	3	5307	5306
+381	genes	1	5750	5749
+382	graph-coloring	1	5752	5751
+385	neat	23	5525	5524
+386	generative-model	11	5564	5563
+387	javascript	5	5613	5612
+388	spanish-language	1	5654	5653
+389	time-complexity	2		
+391	course-evaluation	1		
+392	java	3	5828	5827
+393	c++	5	5830	5829
+394	unassisted-learning	25	6034	6033
+395	norvig-russell	1	5784	5783
+396	disambiguation	1		
+397	art-aesthetics	2	5786	5785
+398	ai-field	2	5788	5787
+401	open-source	1	5824	5823
+402	emergence	2	5887	5886
+403	sentiment-analysis	3	6364	6363
+404	self-play	3	5897	5896
+405	perfect-play	1	5895	5894
+408	early-stopping	1	6348	6347
+409	regularization	1	6362	6361
+411	wetware	1	6253	6252
+412	word2vec	5	6107	6106
+413	teaching-concepts	2		
+414	autoencoders	7	6147	6146
+415	mythology-of-ai	3	6160	6159
+416	decision-tree	4	6181	6180
+417	chinese-room-argument	1	6226	6225
+418	semantics	3	6354	6353
+419	rationality	3	6358	6357
+420	intelligence	2	6360	6359
+421	brute-force	1	6352	6351
+422	bayes	5	6356	6355
+423	open-ai	5	6350	6349
+424	self-awareness	6	6373	6372
+425	sense	3		
+426	concepts	23	6624	6623
+427	academia	2	6652	6651
+428	real-world	1	6650	6649
+429	soft-question	11	6656	6655
+430	ltsm	2	6735	6734
+431	feedforward	4	6738	6737
+432	som	1	6747	6746
+433	digital-rights	3		
+434	dqn	9	6829	6828
+435	alphago-zero	1	6845	6844
+436	google-cloud	1		
+439	confidence	1	6919	6918
+440	profession	1	6958	6957
+441	topology	17	7319	7318
+442	connectivity	1		
+443	structure	1		
+444	feedback	4		
+445	graph-theory	2	7093	7092
+446	alpha-beta-pruning	3	7163	7162
+447	marketability	1		
+448	tools	1		
+449	svm	2	7212	7211
+450	collaboration	1		
+451	creative-commons	1		
+452	autonomous-vehicles	3		
+454	checkers	1		
+455	activation-function	6		
+456	relu	1	7283	7282
+457	monte-carlo-tree-search	16	7285	7284
+458	risk-management	1		
+459	cyborexis	1		
+460	dimensionality	1		
+461	sparse-features	1		
+462	generative-adversarial-networks	4		
+463	convergence	3		
+465	categorical-data	2		
+466	automated-theorem-proving	1		
+467	long-short-term-memory	2		
+468	attention	1		
+469	sequence-modelling	1		
+470	job-trends	1		
+471	multi-armed-bandit	1		
+472	predicting-ai-milestones	1		
+473	resource-request	1	7502	7501
+474	value-iteration	2		
+475	thought	1		
+476	breadth-first-search	2	7567	7566
+477	discount-factor	3	7586	7585
+478	sigmoid	2	7669	7668
+479	survival	1		
+480	simple-reflex-agents	1		

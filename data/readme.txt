@@ -1,0 +1,57 @@
+﻿ - Format: Tab Separated Value (TSV)
+ - Files:
+
+   - **Posts**.tsv
+       - Id
+       - PostTypeId
+          - 1: Question
+          - 2: Answer
+       - ParentID (only present if PostTypeId is 2)
+       - AcceptedAnswerId (only present if PostTypeId is 1)
+       - CreationDate
+       - Score
+       - ViewCount
+       - OwnerUserId
+       - Title 
+       - Tags: a single string with each tag separated by comma
+       - AnswerCount
+       - CommentCount
+       - FavoriteCount
+	   - ClosedDate: the date the quest is marked as closed.
+	   - OwnerDisplayName (only present if owner is deleted from the system)
+   - **users**.csv
+     - Id
+     - Reputation
+     - CreationDate
+     - DisplayName
+     - LastAccessDate
+     - Location
+     - Views
+     - UpVotes
+     - DownVotes
+	 - AccountId: an alternative id, not used in other file
+   - **votes**.csv
+     - Id
+     - PostId
+     - VoteTypeId
+        - ` 1`: AcceptedByOriginator
+        - ` 2`: UpMod
+        - ` 3`: DownMod
+        - ` 4`: Offensive
+        - ` 5`: Favorite - if VoteTypeId = 5 UserId will be populated
+        - ` 6`: Close
+        - ` 7`: Reopen
+        - ` 8`: BountyStart
+        - ` 9`: BountyClose
+        - `10`: Deletion
+        - `11`: Undeletion
+        - `12`: Spam
+        - `13`: InformModerator
+     - CreationDate
+     - UserId (only for VoteTypeId 5)
+     - BountyAmount (only for VoteTypeId 9)
+   - **tags**.csv
+	- Id
+	- TagName: the actual text of the tag
+	- Count: the number of times this tag is assigned to a post
+	
