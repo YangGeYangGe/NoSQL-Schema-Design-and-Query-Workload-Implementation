@@ -1,28 +1,6 @@
 import pandas as pd
 from py2neo import Graph
 
-# #for sq1
-# a = db.run("Match (u:User)-[r:own]->(p:Post) \
-# Where p.PostId = 7 or p.ParentId = 7 \
-# Return u.CreationDate, u.DisplayName, u.UpVotes, u.DownVotes \
-# ")
-# a.data()
-def change_to_csv():
-    tsv_file='Posts.tsv'
-    csv_table=pd.read_table(tsv_file,sep='\t')
-    csv_table.to_csv('Posts1.csv',index=False)
-
-    tsv_file='Tags.tsv'
-    csv_table=pd.read_table(tsv_file,sep='\t')
-    csv_table.to_csv('Tags1.csv',index=False)
-
-    tsv_file='Users.tsv'
-    csv_table=pd.read_table(tsv_file,sep='\t')
-    csv_table.to_csv('Users1.csv',index=False)
-
-    tsv_file='Votes.tsv'
-    csv_table=pd.read_table(tsv_file,sep='\t')
-    csv_table.to_csv('Votes1.csv',index=False)
 
 def load_data():
     db.run("LOAD CSV WITH HEADERS FROM \"file:///Votes.csv\" AS Votes create (a1:Vote {\
@@ -92,7 +70,6 @@ def create_index():
 def delete_all():
     db.run("Match (n) Detach delete n")
     
-# change_to_csv()
 
 mypassword = "123123"
 db = Graph("bolt://localhost:7687",password=mypassword)

@@ -27,12 +27,12 @@ How to use for Neo4j:
     Before running the python files, you may need to change "bolt://localhost:7687" to 
     other url and change the password "123123" inside two files.
 
-    For preprocessing, place Neo4j-preprocessing.py and data in same location,
-    run the function change_to_csv() in Neo4j-preprocessing.py to change the data files
+    For preprocessing, place preprocessing.py and data in same location,
+    run the function change_to_csv() in preprocessing.py to change the data files
     to csv files. Place the csv files to the place where the Neo4j can find them. 
-    Run other part of the Neo4j-preprocessing.py file to finish preprocessing.
+    Run other part of the preprocessing.py file to finish preprocessing.
 
-    Run Neo4j.py to get query results.
+    Run project.py to get query results.
    
     You can also run the Cypher code in two python files directly in Neo4j 
     desktop application for both preprocessing and query.
